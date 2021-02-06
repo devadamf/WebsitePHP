@@ -17,6 +17,16 @@
                     Communities (und darüber hinaus) eingebracht werden. Diese fand in der Form von einem
                     Universitätsseminar, öffentlichen Veranstaltungen, Workshops, einer Ausstellung und einem Toolkit
                     statt.
+<!--                    </br>-->
+<!--                    Melanie organisiert seit über fünfzehn Jahre lang Communities gegen sexualisierter und-->
+<!--                    Beziehungsgewalt. Als weiße Person, die in den U.S. aufgewachsen ist, wurde Melanie durch den-->
+<!--                    visionären Aktivismus von Frauen, trans und queeren Menschen of Color inspiriert, die die kollektive-->
+<!--                    Verantwortungsübernahme- und transformative Gerechtigkeits Bewegung gegründet haben. Neben dem „Was-->
+<!--                    macht uns wirklich sicher?“ Projekt hat Melanie auch das Transformative Justice Kollektiv Berlin-->
+<!--                    mitbegründet und ein Handbuch zum Arbeit mit gewaltausübenden Person mitgeschrieben, Was tun bei-->
+<!--                    sexualisierter Gewalt? Derzeit forscht Melanie zu transnationaler transformativer Gerechtigkeit für-->
+<!--                    eine Dissertation.-->
+
                 </p>
                 <iframe width="470" height="264" src="https://www.youtube.com/embed/op_aSoFmcls" frameborder="0"
                         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
