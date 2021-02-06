@@ -2,9 +2,8 @@
 
 function import_css(){
     ?>
-<!--        TODO: remove /NewGermanPHP/de-->
-    <link href='/NewGermanPHP/de/css/reset.css' rel='stylesheet' type='text/css'>
-    <link href='/NewGermanPHP/de/css/styles.css' rel='stylesheet' type='text/css'>
+    <link href='css/reset.css' rel='stylesheet' type='text/css'>
+    <link href='css/styles.css' rel='stylesheet' type='text/css'>
     <?php
 }
 
