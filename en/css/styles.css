@@ -77,6 +77,10 @@
     float: left;
 }
 
+.recording-caption {
+    font-size: 14px;
+}
+
 .labor-box-sub{
     overflow: auto;
     margin: 20px auto;
@@ -141,7 +145,7 @@
 }
 .tour-date{
     font-weight: 700;
-    font-size: 26pt;
+    font-size: 16px;
 }
 #tour-dates{
     float:right;
@@ -152,7 +156,7 @@
 }
 .tour-location{
     text-decoration: underline;
-    font-size: 26pt;
+    font-size: 16px;
 }
 
 #slider-wrap{
@@ -260,6 +264,7 @@ footer{
 
 .h2-underline{
     padding: 0 0 2px 0;
+    padding: 24px 0 2px 0;
     border-bottom: 2px solid #bde4a8;
     font-size: 30px;
 }
@@ -270,6 +275,7 @@ h2{
     font-size: 12pt;
     font-weight: 700;
     margin: 0 auto 10px auto;
+    padding-top: 48px;
 }
 
 .quote-box{
