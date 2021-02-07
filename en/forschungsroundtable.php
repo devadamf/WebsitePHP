@@ -6,12 +6,13 @@
         <div class='content-main'>
             <section>
                 <h2><span class='h2-underline'>Research Roundtable</h2>
-                <p class='research-text'>
+                <p class='research-text' style="margin-top: 30px">
                     Do you want to learn more about transformative justice through research?
                 </p>
                 <p class='research-text'>
                     Do you work on topics related to:
                 </p>
+                <br />
                 <ul class='research-list'>
                     <li>sexual & partner violence</li>
                     <li>racism & state violence (policing, border regimes, prison)</li>

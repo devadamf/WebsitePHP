@@ -9,9 +9,10 @@
                 <p class='research-text'>
                     Interessierst du dich für Forschung zu transformativer Gerechtigkeit?
                 </p>
-                <p class='research-text'>
+                <p class='research-text' style="margin-top: 30px">
                     Arbeitest du zu den Themen:
                 </p>
+                <br />
                 <ul class='research-list'>
                     <li>sexualisierte Gewalt & Beziehungsgewalt</li>
                     <li>Rassismus & staatliche Gewalt (Überwachung, Grenzregime, Gefängnisse)</li>
