@@ -103,7 +103,7 @@
                 </li>
                 <li>
                     “Transformative Justice instead of Police and Prisons. For an Alternative Approach to Sexual and
-                    Partner Violence”<a
+                    Partner Violence” <a
                             href='https://www.campus.de/buecher-campus-verlag/wissenschaft/politikwissenschaft/kritik_der_polizei-15111.html'
                             target="_blank">Kritik der Polizei</a> in [Critique of the Police] edited by Daniel Loick
                     (Campus)
