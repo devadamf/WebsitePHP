@@ -117,6 +117,35 @@
                         Gefängnis: Theorie, Kritik, Alternativen. Eine Einführung</a> hg von Rezhi Malzahn
                     (Schmetterling)
                 </li>
+                <li>„Giving & Taking Account: Community Accountable Scholarship in a Participatory Action
+                    Research Model“ in <a
+                            href='https://rowman.com/ISBN/9781786613585/Beyond-the-Master%27s-Tools-Decolonizing-Knowledge-Orders-Research-Methods-and-Teaching'
+                            target="_blank"><em>Beyond the Master’s Tools: Decolonizing Knowledge Orders, Research
+                            Methodology, and Teaching</em></a>, edited by Franziska Dübgen, Daniel Bendix, and Aram Ziai
+                    (Rowman & Littlefield)
+                </li>
+                <li>„Von strafrechtsfeministische zu abolitionistische Sicherheit für Betroffene gegenderter
+                    Gewalt“ in <a href='https://www.dampfboot-verlag.de/shop/artikel/sicherheit'
+                                  target="_blank"><em>Sicherheit: Rassismuskritische und feministische Debatten</em></a>,
+                    edited
+                    by Mike Laufenberg and Vanessa E. Thompson (Westfälisches Dampfboot)
+                </li>
+                <li>„Von strafrechtsfeministische zu abolitionistische Sicherheit für Betroffene gegenderter
+                    Gewalt“ in <a href='https://www.dampfboot-verlag.de/shop/artikel/sicherheit'
+                            target="_blank"><em>Abolishing the Police</em></a>, edited by Koshka Duff (Dog Section Press)
+                </li>
+            </ul>
+
+
+            <ul>
+                <li><a href='https://www.transformativejustice.eu/wp-content/uploads/2017/04/Das-Risiko-wagen.pdf'
+                       target="_blank">„Das Risiko wagen. Strategien für selbstorganisierte & kollektive
+                        Verantwortungsübernahme bei sexualisierter Gewalt“</a> Übersetzung eines Textes von Community
+                    Against Rape and Abuse mit Einleitung vom Transformative Justice Kollektiv Berlin. <a
+                            href='https://cinselsiddetlemucadele.org/wp-content/uploads/2019/12/devrim-evde-baslar.pdf'
+                            target="_blank">Übersetzung auf Türkisch</a> von Özge Karlık, Cinsel Şiddetle Mücadele
+                    (Verband für den Kampf gegen sexualisierter Gewalt).
+                </li>
             </ul>
         </section>
 
