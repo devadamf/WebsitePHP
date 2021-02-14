@@ -138,10 +138,10 @@
                 </li>
             </ul>
         </section>
-        
+
         <section>
             <h2><span class='h2-underline'>Zines</span></h2>
-            <ul>
+            <ul class="press-list">
                 <li><a href='https://www.transformativejustice.eu/wp-content/uploads/2017/04/Das-Risiko-wagen.pdf'
                        target="_blank">„Das Risiko wagen. Strategien für selbstorganisierte & kollektive
                         Verantwortungsübernahme bei sexualisierter Gewalt“</a> Übersetzung eines Textes von
