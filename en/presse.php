@@ -145,7 +145,7 @@
                 <li>Translation of Communities Against Rape and Abuse’s <a
                             href='https://www.transformativejustice.eu/wp-content/uploads/2017/04/Das-Risiko-wagen.pdf'
                             target="_blank">“Taking Risks: Implementing Grassroots Community Accountability Strategies”
-                        into German with an introduction</a> y the Berlin Transformative Justice Collective. <a
+                        into German with an introduction</a> by the Berlin Transformative Justice Collective. <a
                             href='https://cinselsiddetlemucadele.org/wp-content/uploads/2019/12/devrim-evde-baslar.pdf'
                             target="_blank">Translation into Turkish</a> by Özge Karlık from Cinsel Şiddetle Mücadele
                     (Association for the Struggle Against Sexual Violence).
