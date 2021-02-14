@@ -44,7 +44,7 @@
                 hast!), bearbeiten unsere gemeinsamen Fragen und entwickeln ein Rahmenplan für das wie und warum von
                 abolitionistischer Forschung. Wenn du Interesse an der Teilnahme hast, schreib bitte eine Mail mit einer
                 Beschreibung deiner aktuellen oder künftigen Forschungsinteressen und was du aus dem Roundtable
-                mitnehmen möchtest, an whatreallymakesussafe@riseup.net.
+                mitnehmen möchtest, an <a href="mailto: whatreallymakesussafe@riseup.net">whatreallymakesussafe@riseup.net</a>.
             </p>
         </section>
     </div>

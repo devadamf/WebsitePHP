@@ -40,7 +40,7 @@
             <p class='research-text'>
                 At the roundtable, we share our research (it’s fine if you don’t have any yet!), workshop our shared
                 questions, and develop a framework for how and why to do abolitionist research. To join us, please email
-                whatreallymakesussafe@riseup.net with a description of your current or future research interests, and
+                <a href="mailto: whatreallymakesussafe@riseup.net">whatreallymakesussafe@riseup.net</a> with a description of your current or future research interests, and
                 what you’d like to get out of the roundtable.
             </p>
         </section>
