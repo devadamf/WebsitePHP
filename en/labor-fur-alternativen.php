@@ -66,7 +66,9 @@
                 <h2><span class='h2-underline'>Publications</span></h2>
                 <div id='publication-box'>
                     <div class='pub-item'>
+                    <a href="https://www.transformativejustice.eu/wp-content/uploads/2017/04/Das-Risiko-wagen.pdf" target="_blank">
                         <img class='pub-img' src='img/publications/das-risiko-wagen.png' />
+                        </a>
                         <p class='pub-text'>
                             The German language translation of one of the founding texts of community accountability  from Communities Against Rape and Abuse (CARA), with an introduction from the Transformative Justice Collective Berlin.
                         </p>
@@ -80,7 +82,9 @@
                     </div>
 
                     <div class='pub-item'>
+                    <a href="https://www.transformativejustice.eu/wp-content/uploads/2018/11/toolkit4-print-1.pdf" target="_blank">
                         <img class='pub-img' src='img/publications/wrmus-pub.png' />
+                        </a>
                         <p class='pub-text'>
                             We celebrated the launch of the “What really makes us safe? Toolkit for Activists” and everyone in the lab got free copies.
                         </p>
@@ -102,7 +106,7 @@
     </div>
 
     <footer style='text-align: center'>
-        <p>&copy; 2021 WRMUS</p>
+    <p>&copy; <script type="text/javascript">document.write(new Date().getUTCFullYear() ); </script> WRMUS</p>
     </footer>
 
 </body>

@@ -2,9 +2,10 @@
 
 function import_css(){
     ?>
-<!--        TODO: remove /NewGermanPHP/de-->
-    <link href='/NewGermanPHP/de/css/reset.css' rel='stylesheet' type='text/css'>
-    <link href='/NewGermanPHP/de/css/styles.css' rel='stylesheet' type='text/css'>
+    <link href='css/reset.css' rel='stylesheet' type='text/css'>
+    <link href='css/styles.css?v=<?php echo time(); ?>' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/not.the.skin.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="circle.skin/circle.player.css?v=<?php echo time(); ?>">
     <?php
 }
 
@@ -21,6 +22,12 @@ function import_javascript(){
     <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
     <script src='js/jquery.wrmus.js'></script>
     <script src='js/jquery.wrmus-slider.js'></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.transform2d.js"></script>
+    <script type="text/javascript" src="js/jquery.grab.js"></script>
+    <script type="text/javascript" src="js/jquery.jplayer.js"></script>
+    <script type="text/javascript" src="js/mod.csstransforms.min.js"></script>
+    <script type="text/javascript" src="js/circle.player.js"></script>
     <?php
 }
 

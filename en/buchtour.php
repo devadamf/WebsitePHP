@@ -3,21 +3,6 @@
         <?php main_nav("buchtour", TRUE); ?>
         <?php main_nav("buchtour", FALSE); ?>
         <div class='content-main'>
-            <section>
-                <h2><span class='h2-underline'>Book Tour Dates 2019</span></h2>
-                <div id='tour-dates-box'>
-                    <ul id='tour-dates'>
-                        <li><span class='tour-date'>Aug 19</span> <span class='tour-location'>ERKELENZ (Klimacamp im Rheinland)</span></li>
-                        <li><span class='tour-date'>Aug 30 - Sept 1</span> <span class='tour-location'>HAMBURG</span></li>
-                        <li><span class='tour-date'>Sept 6</span> <span class='tour-location'>BERLIN (Festival Gegen Rassismus)</span></li>
-                        <li><span class='tour-date'>Sept 11 - 12</span> <span class='tour-location'>FREIBURG (Informationszentrum Dritte Welt)</span></li>
-                        <li><span class='tour-date'>Sept 13 - 14</span> <span class='tour-location'>BERN &amp; ZURICH</span></li>
-                        <li><span class='tour-date'>Sept 26</span> <span class='tour-location'>BERLIN (Critical Friends, Inverse Institution Projektstudio)</span></li>
-                        <li><span class='tour-date'>Sept 27 - 28</span> <span class='tour-location'>HANNOVER (Kulturzentrum Pavillon)</span></li>
-                    </ul>
-                    <div class='clearfix'></div>
-                </div>
-            </section>
 
             <section>
                 <h2><span class='h2-underline'>Book Tour</span></h2>
@@ -113,7 +98,7 @@
 
     </div>
     <footer style='text-align: center'>
-        <p>&copy; 2021 WRMUS</p>
+    <p>&copy; <script type="text/javascript">document.write(new Date().getUTCFullYear() ); </script> WRMUS</p>
     </footer>
 
 </body>
