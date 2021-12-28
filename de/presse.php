@@ -7,14 +7,14 @@
         <section>
 
             <h2><span class='h2-underline'>Presse</span></h2>
-            <?php
-            /*
             <div class='quote-box'>
                 <img class='quote-icon' src='img/quote.png' />
-                <p class='quote-main'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed viverra lorem a nibh placerat auctor. Donec fringilla eget neque vitae accumsan. Sed eget leo vitae urna hendrerit semper eget eget ante. Nullam porttitor est quam, ut aliquet dolor auctor et.</p>
-                <p class='quotee'>-Lorem Ipsum</p>
+                <p class='quote-main'>Auf den verschmorten Aschen der Polizeiwachen haben wir Parks und Universitäten für alle gebaut, Amphitheater, wo Nachbar*innenschaftsräte ihre Versammlungen halten. 
+
+Während du Unter den Linden entlang spazierst, läufst du an den beiden Denkmälern vorbei, die positive statt negative Sicherheit ehren.</p>
+                <p class='quotee'>-Melanie Brazzell, <a href="https://www.google.com/url?q=https://missy-magazine.de/blog/2021/03/08/eine-welt-ohne/%23scroll_to_steady_paywall&sa=D&source=docs&ust=1640639376463092&usg=AOvVaw0IwQNqU0jscTPEAJooIdiZ">Missy Magazine "Schafft es ab!"</a></p>
             </div>
-            */ ?>
+             
             <p class='press-text'>
                 Presse über das Was macht uns wirklich sicher? Projekt:
             </p>
@@ -88,7 +88,9 @@
                         Personal Reflection on Doing Participatory Action Research in Transformative Justice“</a> auf
                     der
                     Thinking Gender Blog, UCLA Center for the Study of Women
-                    <a
+                </li>
+                <li>
+                <a
                             href='https://www.toa-servicebuero.de/sites/default/files/magazin/toa_magazin_1_19_web.pdf#page=19'
                             target="_blank">IZ3W:
                         „Zwischen Reform und Revolution: Transformative Gerechtigkeit für Gewalt jenseits
@@ -166,14 +168,14 @@
                 <p class='quotee'>-Cras ultrices</p>
             </div>
         </section>
-        */ ?>
+         ?>
 
 
     </div>
 
 </div>
 <footer style='text-align: center'>
-    <p>&copy; 2021 WRMUS</p>
+<p>&copy; <script type="text/javascript">document.write(new Date().getUTCFullYear() ); </script> WRMUS</p>
 </footer>
 
 </body>

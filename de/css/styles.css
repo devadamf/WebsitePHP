@@ -292,7 +292,7 @@ h2{
     .quote-main{
         color: #124e78;
         font-size: 15pt;
-        line-height: 16px;
+        /* line-height: 16px; */
     }
     .quotee{
         font-family: 'Overpass', sans-serif;

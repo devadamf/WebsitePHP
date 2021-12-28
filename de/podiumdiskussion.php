@@ -40,7 +40,7 @@
     </div>
 
     <footer style='text-align: center'>
-        <p>&copy; 2021 WRMUS</p>
+    <p>&copy; <script type="text/javascript">document.write(new Date().getUTCFullYear() ); </script> WRMUS</p>
     </footer>
 
 </body>

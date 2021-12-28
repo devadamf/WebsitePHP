@@ -3,9 +3,9 @@
 function import_css(){
     ?>
     <link href='css/reset.css' rel='stylesheet' type='text/css'>
-    <link href='css/styles.css' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/not.the.skin.css">
-    <link rel="stylesheet" href="circle.skin/circle.player.css">
+    <link href='css/styles.css?v=<?php echo time(); ?>' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/not.the.skin.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="circle.skin/circle.player.css?v=<?php echo time(); ?>">
     <?php
 }
 
