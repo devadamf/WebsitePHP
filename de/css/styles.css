@@ -299,8 +299,15 @@ h2{
         font-size: 10pt;
         font-weight: 700;
         color: #35887f;
-        text-transform: uppercase;
         text-align: right;
+    }
+    .quotee a{
+        color: #e26d5c;
+        font-weight: 700;
+        text-decoration: none;
+    }
+    .quotee a:hover{
+        text-decoration: underline;
     }
 
 #about-top-sub{
