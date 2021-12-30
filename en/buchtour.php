@@ -6,12 +6,13 @@
 
             <section>
                 <h2><span class='h2-underline'>Book Tour</span></h2>
-                <div class='book-tour-box'>
-                    <p class='book-tour-text'>
+                <div class='toolkit-box'>
+                    <div id='booktour-wrap'>
+                    <img src='img/booktour-poster.jpg' />
+                    </div>
+                <p class='video-wrap-text'>
                         Phew!  The 2018 book tour was a whirlwind. Thanks to collaborators Sanchita Basu, Jen Petzen, Fee Grabow, Lisa Monz, Jaya Chakravarti, Tine McCaskill, Nadija Samour, Zoya Honarmand and Farzada for carrying this collective show on the road from London to Barcelona and all around Germany.
                     </p>
-                    <img src='img/booktour-poster.jpg' />
-                    <div class='clearfix'></div>
                 </div>
             </section>
             <?php

@@ -3,10 +3,16 @@
     <?php main_nav("projekt", TRUE); //top ?>
 
     <div class='content-main'>
+        <section>
         <div id='about-top'>
             <h2><span class='h2-underline'>About</span></h2>
-            <div id='about-top-sub'>
-                <p id='about-text'>
+            <div class='about-top-sub'>
+            <div class='wrapped-video'>
+                    <iframe width="470" height="264" src="https://www.youtube.com/embed/op_aSoFmcls" frameborder="0"
+                            allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
+            <p class='video-wrap-text'>
                     The What <em>Really</em> Makes Us Safe? Project is a multimedia project created by Melanie Brazzell
                     in collaboration with many others committed to a vision of safety that includes everyone.
                     Understanding that police, prisons, and border regimes spread insecurity rather than safety, the
@@ -31,17 +37,18 @@
                     <!--                    dissertation.-->
 
                     </p>
-                    <iframe width="470" height="264" src="https://www.youtube.com/embed/op_aSoFmcls" frameborder="0"
-                            allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
                     <div class='clearfix'></div>
             </div>
+                    </section>
+
+                    <section>
             <h2><span class='h2-underline'>Logo</span></h2>
             <div id='about-bottom-sub'>
                 <div id='about-image-bottom'>
                     <img src="img/aboutkit.png">
                 </div>
-                <p>The project logo is a traditional German sewing box -- a symbol of positive safety as a toolbox of
+                <p class='video-wrap-text'>
+                    The project logo is a traditional German sewing box -- a symbol of positive safety as a toolbox of
                     embodied skills and collective resources, in contrast to a negative vision of security based on
                     borders and cages. Artist Andrea Marcos developed a linoleum cut print based on this idea, filling
                     the sewing box with various symbols that represent sources of safety in our lives: lipstick for
@@ -51,6 +58,7 @@
                     angles.
                 </p>
             </div>
+            </section>
         </div>
         <!--
         <div id='about-bottom'>

@@ -3,10 +3,15 @@
     <?php main_nav("projekt", TRUE); //top ?>
 
     <div class='content-main'>
+    <section>
         <div id='about-top'>
             <h2><span class='h2-underline'>Projekt</span></h2>
             <div id='about-top-sub'>
-                <p id='about-text'>
+            <div class='wrapped-video'>
+            <iframe width="470" height="264" src="https://www.youtube.com/embed/op_aSoFmcls" frameborder="0"
+                        allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <p class='video-wrap-text'>
                     Das „Was macht uns wirklich sicher?“ Projekt ist ein multimediales Projekt von Melanie Brazzell und
                     anderen Kollaborateur*innen, die eine Vision von Sicherheit für alle ermöglichen möchten. Mit dem
                     Verständnis, dass Polizei, Gefängnis, und Grenzregimes eher Unsicherheit verbreiten, ist es das Ziel
@@ -28,17 +33,19 @@
 <!--                    eine Dissertation.-->
 
                 </p>
-                <iframe width="470" height="264" src="https://www.youtube.com/embed/op_aSoFmcls" frameborder="0"
-                        allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class='clearfix'></div>
 
             </div>
+            </section>
+
+            <section>
             <h2><span class='h2-underline'>Logo</span></h2>
             <div id='about-bottom-sub'>
                 <div id='about-image-bottom'>
                     <img src="img/aboutkit.png">
                 </div>
-                <p>Das Logo ist ein traditionelles deutsches Nähkästchen - ein Symbol für positive Sicherheit als ein
+                <p class='video-wrap-text'>
+                Das Logo ist ein traditionelles deutsches Nähkästchen - ein Symbol für positive Sicherheit als ein
                     Werkzeugkasten gefüllt mit verkörperten Fähigkeiten und kollektiven Ressourcen, im Gegensatz zu
                     einer
                     negativen Vorstellung von Sicherheit, welche sich auf Grenzen und Käfige stützt. Die Künstlerin
@@ -54,6 +61,7 @@
                     unsere queer-feministische Perspektive zur Geltung zu bringen.
                 </p>
             </div>
+            </section>
         </div>
 
 

@@ -166,8 +166,8 @@
                             </div>
 
                         </div>
-                        <p class='recording-caption'>Listen to Farzada reading her and Zoya’s poetic contribution to the book. In their contribution to the book, Farzada and Zoya from Care/Acountability/Conflict/Awareness (CACA) describe the beauty and weariness of transformative justice work. They chose to express their feelings towards the work creatively, in the form of a Ghazal in Farsi.
-                        </p>
+                        <!-- <p class='recording-caption'>Listen to Farzada reading her and Zoya’s poetic contribution to the book. In their contribution to the book, Farzada and Zoya from Care/Acountability/Conflict/Awareness (CACA) describe the beauty and weariness of transformative justice work. They chose to express their feelings towards the work creatively, in the form of a Ghazal in Farsi.
+                        </p> -->
                     </div>
                 </div>
             </div>
