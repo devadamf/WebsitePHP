@@ -59,6 +59,10 @@
     margin: 2px;
 }
 
+#booktour-wrap{
+    float: right;
+}
+
 #toolkit-book-wrap{
     float: left;
     margin: 0 40px 20px auto;
@@ -124,8 +128,7 @@
 }
 
 .book-tour-box{
-    overflow: auto;
-    margin: 30px auto 30px auto;
+    margin: 30px auto;
 }
 .book-tour-box img{
     float: right;
@@ -313,7 +316,6 @@ h2{
 
 #about-top-sub{
     overflow: auto;
-    display: block;
     margin: 30px auto 30px auto;
 }
 #about-top-sub iframe{
@@ -329,17 +331,7 @@ h2{
 }
 
 #about-bottom-sub{
-    overflow: auto;
-    display: block;
     margin: 30px auto 30px auto;
-}
-
-#about-bottom-sub p{
-    float: right;
-    width: 470px;
-    font-family: 'PT Serif', serif;
-    font-size: 16px;
-    line-height: 20px;
 }
 
 #about-image-bottom{
@@ -364,6 +356,13 @@ h2{
     font-size: 16px;
     line-height: 20px;
 }
+
+.booktour-video-wrap-text{
+    font-family: 'PT Serif', serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
 .img-wrap-text{
     padding-top: 48px;
     float: right;
@@ -379,7 +378,7 @@ h2{
 #discussion-img{
     float: left;
     width: 50%;
-    margin: 0 auto 0 auto;
+    margin: 0 24px 0 auto;
 }
 
 .research-text{
@@ -461,21 +460,7 @@ h2{
     margin-top: 82px;
     text-align: center;
 }
-@media (min-width: 768px) {
-    #content {
-        width: 750px;
-    }
-}
-@media (min-width: 992px) {
-    #content {
-        width: 970px;
-    }
-}
-@media (min-width: 1200px) {
-    #content {
-        width: 1170px;
-    }
-}
+
 .content-main{
     text-align: left;
     margin: 50px auto 0 auto;
@@ -544,5 +529,28 @@ h2{
             background-color: #35887fee;
         }
         .nav-label{
-            font-size: 7.5pt;
+            font-size: 10pt;
+        }
+
+        @media (min-width: 768px) {
+            #content {
+                width: 750px;
+            }
+        }
+
+        @media (min-width: 992px) {
+            #content {
+                width: 970px;
+            }
+            .nav-label{
+                font-size: 7.5pt;
+            }
+        }
+        @media (min-width: 1200px) {
+            #content {
+                width: 1170px;
+            }
+            .nav-label{
+                font-size: 7.5pt;
+            }
         }

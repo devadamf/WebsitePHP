@@ -170,7 +170,7 @@
                             </div>
 
                         </div>
-                        <p class='recording-caption'>In ihrem Beitrag im Buch beschreiben, Farzada & Zoya aus Care/Accountability/Conflict/Awareness (CACA), wie schön und schwierig transformative Gerechtigkeitsarbeit sein kann. Sie drücken es auch mit Kunst aus, in dem sie auf Farsi einen Ghasel geschrieben haben. </p>
+                        <!-- <p class='recording-caption'>In ihrem Beitrag im Buch beschreiben, Farzada & Zoya aus Care/Accountability/Conflict/Awareness (CACA), wie schön und schwierig transformative Gerechtigkeitsarbeit sein kann. Sie drücken es auch mit Kunst aus, in dem sie auf Farsi einen Ghasel geschrieben haben. </p> -->
                     </div>
                 </div>
             </div>

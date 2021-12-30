@@ -20,7 +20,7 @@
                     <div class='discussion-img-wrap'>
                         <img id='discussion-img' src='img/discussion-en-img.jpg'/>
                     </div>
-                    <p class='img-wrap-text'>
+                    <p class='video-wrap-text'>
                     If police and borders don’t make us safe, what alternatives do we have in our communities? How can we build safety for ourselves?
                     <br/><br/>
                         This event was organized by students of the “Feminism and the State: Carceral Feminisms & Transformative Alternatives” seminar at Humboldt University, together with their teacher, Melanie Brazzell. In order to make connections between the Berlin and U.S. contexts, Melanie invited several local activist-thinkers to the seminar as guest speakers. 

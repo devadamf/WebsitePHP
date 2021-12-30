@@ -7,8 +7,11 @@
             <section>
                 <h2><span class='h2-underline'>Buchtour</span></h2>
                 <div class='book-tour-box'>
-                    <p class='book-tour-text'>Puh! Die Buchtour war ein Wirbelwind. Danke an unsere Kollaboratör*innen Sanchita Basu, Jen Petzen, Fee Grabow, Lisa Monz, Jaya Chakravarti, Tine McCaskill, Nadija Samour, Zoya Honarmand und Farzada dafür, dass sie sie diese kollektive show von London bis Barcelona und rund durch Deutschland getragen haben.</p>
+                <div class='wrapped-video'>
                     <img src='img/booktour-poster.jpg' />
+                    </div>
+                <p class='booktour-video-wrap-text'>
+                        Puh! Die Buchtour war ein Wirbelwind. Danke an unsere Kollaboratör*innen Sanchita Basu, Jen Petzen, Fee Grabow, Lisa Monz, Jaya Chakravarti, Tine McCaskill, Nadija Samour, Zoya Honarmand und Farzada dafür, dass sie sie diese kollektive show von London bis Barcelona und rund durch Deutschland getragen haben.</p>
                     <div class='clearfix'></div>
                 </div>
             </section>

@@ -2,7 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-
 <head>
     <title>Was Macht Uns Wirklich Sicher</title>
     <meta charset='utf-8' />
